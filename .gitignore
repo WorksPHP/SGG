@@ -7,16 +7,12 @@ Homestead.json
 =======
 vendor/
 node_modules/
-
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
-# Laravel 5 & Lumen specific
 bootstrap/cache/
 storage/
-.env.*.php
 .env.php
+<<<<<<< HEAD
 .env
 .env.example
 >>>>>>> 76fdc315df0c38b43164a9a31e69413f5e82d63c
+=======
+>>>>>>> a31dabab11be044fa7117b4e042f46f10f89ae67
